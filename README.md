@@ -196,7 +196,7 @@ async def mpesa_callback(payload: dict):
 ## Development
 
 ```bash
-git clone https://github.com/Triad-a/mpesa-py
+git clone https://github.com/introspectiveke/mpesa-py
 cd mpesa-py
 pip install -e ".[dev]"
 pytest
